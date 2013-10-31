@@ -1,0 +1,18 @@
+URxvt*transparent:true
+URxvt*shading:20
+URxvt*background:Black
+URxvt*foreground:Grey
+URxvt*scrollBar:true
+URxvt*scrollBar_right:true
+URxvt*scrollBar_floating:false
+URxvt*scrollstyle:plain
+
+URxvt*saveLines:2048
+URxvt*troughColor:#000000
+URxvt*scrollColor:#222222
+URxvt*color12:    #2b40ea
+URxvt.italicFont:        xft:Bitstream Vera Sans Mono:italic:autohint=true
+URxvt.boldItalicFont:    xft:Bitstream Vera Sans Mono:bold:italic:autohint=true
+
+URxvt*urgentOnBell:true
+URxvt*vbell:true
